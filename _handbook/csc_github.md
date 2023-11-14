@@ -14,5 +14,6 @@ The following repos have not had a push event for more than 180 days:
 
 | Repository URL | Days Inactive | Last Push Date |
 | --- | --- | ---: |
-| https://github.com/GSTT-CSC/gstt-csc-old | 545 | 2022-05-16 |
-| https://github.com/GSTT-CSC/MLOps-tutorial | 209 | 2023-04-17 |
+| https://github.com/GSTT-CSC/gstt-csc-old | 546 | 2022-05-16 |
+| https://github.com/GSTT-CSC/MLOps-tutorial | 210 | 2023-04-17 |
+| https://github.com/GSTT-CSC/0018-ds-mr-spectroscopy | 181 | 2023-05-16 |
