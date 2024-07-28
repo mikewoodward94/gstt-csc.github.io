@@ -14,7 +14,7 @@ The following repos have not had a push event for more than 180 days:
 
 | Repository URL | Days Inactive | Last Push Date | Visibility |
 | --- | --- | --- | --- |
-| https://github.com/GSTT-CSC/MLOps-tutorial | 466 | 2023-04-17 | public |
-| https://github.com/GSTT-CSC/SeriesMaker-AIDE | 331 | 2023-08-30 | public |
-| https://github.com/GSTT-CSC/rsync-time-backup | 274 | 2023-10-26 | public |
-| https://github.com/GSTT-CSC/XNAT | 262 | 2023-11-07 | public |
+| https://github.com/GSTT-CSC/MLOps-tutorial | 467 | 2023-04-17 | public |
+| https://github.com/GSTT-CSC/SeriesMaker-AIDE | 332 | 2023-08-30 | public |
+| https://github.com/GSTT-CSC/rsync-time-backup | 275 | 2023-10-26 | public |
+| https://github.com/GSTT-CSC/XNAT | 263 | 2023-11-07 | public |
