@@ -14,6 +14,6 @@ The following repos have not had a push event for more than 180 days:
 
 | Repository URL | Days Inactive | Last Push Date | Visibility |
 | --- | --- | --- | --- |
-| https://github.com/GSTT-CSC/SeriesMaker-AIDE | 710 | 2023-08-30 | public |
-| https://github.com/GSTT-CSC/rsync-time-backup | 653 | 2023-10-26 | public |
-| https://github.com/GSTT-CSC/TotalSegmentator-AIDE | 543 | 2024-02-13 | public |
+| https://github.com/GSTT-CSC/SeriesMaker-AIDE | 711 | 2023-08-30 | public |
+| https://github.com/GSTT-CSC/rsync-time-backup | 654 | 2023-10-26 | public |
+| https://github.com/GSTT-CSC/TotalSegmentator-AIDE | 544 | 2024-02-13 | public |
