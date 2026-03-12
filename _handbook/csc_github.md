@@ -14,10 +14,10 @@ The following repos have not had a push event for more than 180 days:
 
 | Repository URL | Days Inactive | Last Push Date | Visibility |
 | --- | --- | --- | --- |
-| https://github.com/GSTT-CSC/SeriesMaker-AIDE | 923 | 2023-08-30 | public |
-| https://github.com/GSTT-CSC/rsync-time-backup | 866 | 2023-10-26 | public |
-| https://github.com/GSTT-CSC/TotalSegmentator-AIDE | 756 | 2024-02-13 | public |
-| https://github.com/GSTT-CSC/hazen-web-app | 351 | 2025-03-24 | public |
-| https://github.com/GSTT-CSC/XNAT | 314 | 2025-04-30 | public |
-| https://github.com/GSTT-CSC/MLOps | 253 | 2025-06-30 | public |
-| https://github.com/GSTT-CSC/MLOps-tutorial | 253 | 2025-06-30 | public |
+| https://github.com/GSTT-CSC/SeriesMaker-AIDE | 924 | 2023-08-30 | public |
+| https://github.com/GSTT-CSC/rsync-time-backup | 867 | 2023-10-26 | public |
+| https://github.com/GSTT-CSC/TotalSegmentator-AIDE | 757 | 2024-02-13 | public |
+| https://github.com/GSTT-CSC/hazen-web-app | 352 | 2025-03-24 | public |
+| https://github.com/GSTT-CSC/XNAT | 315 | 2025-04-30 | public |
+| https://github.com/GSTT-CSC/MLOps | 254 | 2025-06-30 | public |
+| https://github.com/GSTT-CSC/MLOps-tutorial | 254 | 2025-06-30 | public |
