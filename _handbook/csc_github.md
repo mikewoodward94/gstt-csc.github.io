@@ -14,10 +14,9 @@ The following repos have not had a push event for more than 180 days:
 
 | Repository URL | Days Inactive | Last Push Date | Visibility |
 | --- | --- | --- | --- |
-| https://github.com/GSTT-CSC/SeriesMaker-AIDE | 937 | 2023-08-30 | public |
-| https://github.com/GSTT-CSC/rsync-time-backup | 880 | 2023-10-26 | public |
-| https://github.com/GSTT-CSC/TotalSegmentator-AIDE | 770 | 2024-02-13 | public |
-| https://github.com/GSTT-CSC/hazen-web-app | 365 | 2025-03-24 | public |
-| https://github.com/GSTT-CSC/XNAT | 328 | 2025-04-30 | public |
-| https://github.com/GSTT-CSC/MLOps | 267 | 2025-06-30 | public |
-| https://github.com/GSTT-CSC/MLOps-tutorial | 267 | 2025-06-30 | public |
+| https://github.com/GSTT-CSC/SeriesMaker-AIDE | 938 | 2023-08-30 | public |
+| https://github.com/GSTT-CSC/rsync-time-backup | 881 | 2023-10-26 | public |
+| https://github.com/GSTT-CSC/TotalSegmentator-AIDE | 771 | 2024-02-13 | public |
+| https://github.com/GSTT-CSC/hazen-web-app | 366 | 2025-03-24 | public |
+| https://github.com/GSTT-CSC/XNAT | 329 | 2025-04-30 | public |
+| https://github.com/GSTT-CSC/MLOps-tutorial | 268 | 2025-06-30 | public |
