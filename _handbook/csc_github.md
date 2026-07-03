@@ -14,10 +14,10 @@ The following repos have not had a push event for more than 180 days:
 
 | Repository URL | Days Inactive | Last Push Date | Visibility |
 | --- | --- | --- | --- |
-| https://github.com/GSTT-CSC/SeriesMaker-AIDE | 1036 | 2023-08-30 | public |
-| https://github.com/GSTT-CSC/rsync-time-backup | 979 | 2023-10-26 | public |
-| https://github.com/GSTT-CSC/TotalSegmentator-AIDE | 869 | 2024-02-13 | public |
-| https://github.com/GSTT-CSC/hazen-web-app | 464 | 2025-03-24 | public |
-| https://github.com/GSTT-CSC/XNAT | 427 | 2025-04-30 | public |
-| https://github.com/GSTT-CSC/MLOps-tutorial | 366 | 2025-06-30 | public |
-| https://github.com/GSTT-CSC/QMS-Template | 274 | 2025-09-30 | public |
+| https://github.com/GSTT-CSC/SeriesMaker-AIDE | 1037 | 2023-08-30 | public |
+| https://github.com/GSTT-CSC/rsync-time-backup | 980 | 2023-10-26 | public |
+| https://github.com/GSTT-CSC/TotalSegmentator-AIDE | 870 | 2024-02-13 | public |
+| https://github.com/GSTT-CSC/hazen-web-app | 465 | 2025-03-24 | public |
+| https://github.com/GSTT-CSC/XNAT | 428 | 2025-04-30 | public |
+| https://github.com/GSTT-CSC/MLOps-tutorial | 367 | 2025-06-30 | public |
+| https://github.com/GSTT-CSC/QMS-Template | 275 | 2025-09-30 | public |
